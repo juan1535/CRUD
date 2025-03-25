@@ -1,50 +1,98 @@
 {
   "ciudades": [
     {
-      "id": 1,
+      "id": "1",
       "nombre": "Bucaramanga"
     },
     {
-      "id": 2,
+      "id": "2",
       "nombre": "Floridablanca"
     },
     {
-      "id": 3,
+      "id": "3",
       "nombre": "Piedecuesta"
     },
     {
-      "id": 4,
+      "id": "4",
       "nombre": "Girón"
     },
     {
-      "id": 5,
+      "id": "5",
       "nombre": "Lebrija"
     }
   ],
   "tipo": [
     {
-      "id": 1,
+      "id": "1",
       "tipo": "Cedula de Ciudadania"
     },
     {
-      "id": 2,
+      "id": "2",
       "tipo": "Tarjeta de indentidad"
     },
     {
-      "id": 3,
+      "id": "3",
       "tipo": "DNI-NIF"
     },
     {
-      "id": 4,
+      "id": "4",
       "tipo": "Pasaporte"
     },
     {
-      "id": 5,
+      "id": "5",
       "tipo": "Cartilla del Servicio Militar Nacional"
     }
   ],
-  "usuarios": [ {
-    
-  }
+  "usuarios": [
+    {
+      "id": "e9e9",
+      "nombre": "Juan",
+      "apellidos": "Franco",
+      "ciudad": 3,
+      "telefono": "3144157285",
+      "direccion": "blablabla12345",
+      "tipo_documento": 4,
+      "email": "juandfranocqnoie@gmai.com"
+    },
+    {
+      "id": "4883",
+      "nombre": "Juan",
+      "apellidos": "Franco",
+      "ciudad": 3,
+      "telefono": "3144157285",
+      "direccion": "blablabla12345",
+      "tipo_documento": 4,
+      "email": "juandfranocqnoie@gmai.com"
+    },
+    {
+      "id": "992b",
+      "nombre": "Miguel",
+      "apellidos": "Lizarazo",
+      "ciudad": 2,
+      "telefono": "31412526|",
+      "direccion": "qwekmqo",
+      "tipo_documento": 1,
+      "email": "asdasdwrq"
+    },
+    {
+      "id": "b831",
+      "nombre": "Miguel",
+      "apellidos": "Lizarazo",
+      "ciudad": 2,
+      "telefono": "31412526|",
+      "direccion": "qwekmqo",
+      "tipo_documento": 1,
+      "email": "asdasdwrq"
+    },
+    {
+      "id": "e3c0",
+      "nombre": "adsaasd",
+      "apellidos": "asd",
+      "ciudad": 0,
+      "telefono": "",
+      "direccion": "",
+      "tipo_documento": 0,
+      "email": ""
+    }
   ]
 }
